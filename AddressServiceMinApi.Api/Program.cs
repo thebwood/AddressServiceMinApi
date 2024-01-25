@@ -24,7 +24,7 @@ var builder = WebApplication.CreateBuilder(args);
     builder.Services
         .AddPresentation()
         .AddDomain()
-        .AddInfrastructure(builder.Configuration.GetConnectionString("Database");
+        .AddInfrastructure(builder.Configuration.GetConnectionString("Database"));
 
 
 }
