@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressServiceMinApi.Core",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressServiceMinApi.Infrastructure", "AddressServiceMinApi.Infrastructure\AddressServiceMinApi.Infrastructure.csproj", "{AC49BEAA-F192-43A9-BEAF-C992549954A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressServiceMinApi.ClassLibrary", "AddressServiceMinApi.ClassLibrary\AddressServiceMinApi.ClassLibrary.csproj", "{4A5BC50C-5B50-45BB-B8CE-562627022792}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AC49BEAA-F192-43A9-BEAF-C992549954A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC49BEAA-F192-43A9-BEAF-C992549954A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC49BEAA-F192-43A9-BEAF-C992549954A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5BC50C-5B50-45BB-B8CE-562627022792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5BC50C-5B50-45BB-B8CE-562627022792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5BC50C-5B50-45BB-B8CE-562627022792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5BC50C-5B50-45BB-B8CE-562627022792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
